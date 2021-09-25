@@ -4,10 +4,10 @@
         "name":"Brenda Gray",
         "img":"https://raw.githubusercontent.com/imprantu/fake-devs/main/img/dev-1.jpg",
         "age":23,
-        "company":"Desert Rose Software",
+        "company":"Dribble Software",
         "position":"Web Developer",
         "country":"US",
-        "salary":25000
+        "salary":60000
     },
     {
         "id":1002,
@@ -17,7 +17,7 @@
         "company":"Jupiter Programmers",
         "position":"Web Developer",
         "country":"US",
-        "salary":35000
+        "salary":58000
     },
     {
         "id":1003,
@@ -27,17 +27,17 @@
         "company":"Peace OS",
         "position":"React Developer",
         "country":"UK",
-        "salary":28000
+        "salary":120000
     },
     {
         "id":1004,
         "name":"Russell White",
         "img":"https://raw.githubusercontent.com/imprantu/fake-devs/main/img/dev-4.jpg",
         "age":24,
-        "company":"Standard Software Technology",
+        "company":"Script Tech",
         "position":"React Developer",
         "country":"US",
-        "salary":32000
+        "salary":105000
     },
     {
         "id":1005,
@@ -47,7 +47,7 @@
         "company":"TechSphere",
         "position":"React Developer",
         "country":"US",
-        "salary":41000
+        "salary":110000
     },
     {
         "id":1006,
@@ -57,7 +57,7 @@
         "company":"Overdrivers",
         "position":"Node JS Developer",
         "country":"US",
-        "salary":45000
+        "salary":120000
     },
     {
         "id":1007,
@@ -67,7 +67,7 @@
         "company":"SkyNet",
         "position":"Web Developer",
         "country":"UK",
-        "salary":40000
+        "salary":75000
     },
     {
         "id":1008,
@@ -77,7 +77,7 @@
         "company":"Global Software",
         "position":"Node JS Developer",
         "country":"UK",
-        "salary":38000
+        "salary":112000
     },
     {
         "id":1009,
@@ -87,7 +87,7 @@
         "company":"Surefire Software",
         "position":"Web Developer",
         "country":"US",
-        "salary":26000
+        "salary":69000
     },
     {
         "id":1010,
@@ -97,17 +97,17 @@
         "company":"Organic Applications",
         "position":"Web Developer",
         "country":"Canada",
-        "salary":24000
+        "salary":65000
     },
     {
         "id":1011,
         "name":"Sara Anderson",
         "img":"https://raw.githubusercontent.com/imprantu/fake-devs/main/img/dev-11.jpg",
         "age":22,
-        "company":"Optimum Software Co",
+        "company":"Optimum Software",
         "position":"Full Stack Developer",
         "country":"UK",
-        "salary":32000
+        "salary":95000
     },
     {
         "id":1012,
@@ -117,17 +117,17 @@
         "company":"Subliminal Software",
         "position":"Web Developer",
         "country":"US",
-        "salary":30000
+        "salary":78000
     },
     {
         "id":1013,
         "name":"Victor Carter",
         "img":"https://raw.githubusercontent.com/imprantu/fake-devs/main/img/dev-13.jpg",
         "age":31,
-        "company":"Beta Byte Techs",
+        "company":"Beta Techs",
         "position":"Full Stack Developer",
         "country":"Canada",
-        "salary":22000
+        "salary":82000
     },
     {
         "id":1014,
@@ -137,7 +137,7 @@
         "company":"BuzzWare",
         "position":"Web Developer",
         "country":"UK",
-        "salary":29000
+        "salary":70000
     },
     {
         "id":1015,
@@ -147,6 +147,6 @@
         "company":"ExaminWare",
         "position":"Full Stack Developer",
         "country":"US",
-        "salary":33000
+        "salary":80000
     }
 ]
