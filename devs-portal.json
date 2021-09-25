@@ -105,9 +105,9 @@
         "img":"https://raw.githubusercontent.com/imprantu/fake-devs/main/img/dev-11.jpg",
         "age":22,
         "company":"Optimum Software",
-        "position":"Full Stack Developer",
+        "position":"React Developer",
         "country":"UK",
-        "salary":95000
+        "salary":115000
     },
     {
         "id":1012,
