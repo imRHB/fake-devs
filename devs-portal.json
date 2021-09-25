@@ -7,7 +7,7 @@
         "company":"Dribble Software",
         "position":"Web Developer",
         "country":"US",
-        "salary":7000
+        "salary":70000
     },
     {
         "id":1002,
@@ -17,7 +17,7 @@
         "company":"Jupiter Programmers",
         "position":"Web Developer",
         "country":"US",
-        "salary":6300
+        "salary":63000
     },
     {
         "id":1003,
@@ -27,7 +27,7 @@
         "company":"Peace OS",
         "position":"React Developer",
         "country":"UK",
-        "salary":10000
+        "salary":100000
     },
     {
         "id":1004,
@@ -37,7 +37,7 @@
         "company":"Script Tech",
         "position":"React Developer",
         "country":"US",
-        "salary":10500
+        "salary":105000
     },
     {
         "id":1005,
@@ -47,7 +47,7 @@
         "company":"TechSphere",
         "position":"React Developer",
         "country":"US",
-        "salary":11000
+        "salary":110000
     },
     {
         "id":1006,
@@ -57,7 +57,7 @@
         "company":"Overdrivers",
         "position":"Node JS Developer",
         "country":"US",
-        "salary":12000
+        "salary":120000
     },
     {
         "id":1007,
@@ -67,7 +67,7 @@
         "company":"SkyNet",
         "position":"Web Developer",
         "country":"UK",
-        "salary":7500
+        "salary":75000
     },
     {
         "id":1008,
@@ -77,7 +77,7 @@
         "company":"Global Software",
         "position":"Node JS Developer",
         "country":"UK",
-        "salary":11500
+        "salary":115000
     },
     {
         "id":1009,
@@ -87,7 +87,7 @@
         "company":"Surefire Software",
         "position":"Web Developer",
         "country":"US",
-        "salary":6500
+        "salary":65000
     },
     {
         "id":1010,
@@ -97,7 +97,7 @@
         "company":"Organic Applications",
         "position":"Web Developer",
         "country":"Canada",
-        "salary":6500
+        "salary":75000
     },
     {
         "id":1011,
@@ -107,7 +107,7 @@
         "company":"Optimum Software",
         "position":"Full Stack Developer",
         "country":"UK",
-        "salary":9500
+        "salary":95000
     },
     {
         "id":1012,
@@ -117,7 +117,7 @@
         "company":"Subliminal Software",
         "position":"Web Developer",
         "country":"US",
-        "salary":7800
+        "salary":78000
     },
     {
         "id":1013,
@@ -127,7 +127,7 @@
         "company":"Beta Techs",
         "position":"Full Stack Developer",
         "country":"Canada",
-        "salary":8200
+        "salary":82000
     },
     {
         "id":1014,
@@ -137,7 +137,7 @@
         "company":"BuzzWare",
         "position":"Web Developer",
         "country":"UK",
-        "salary":7000
+        "salary":70000
     },
     {
         "id":1015,
@@ -147,6 +147,6 @@
         "company":"ExaminWare",
         "position":"Full Stack Developer",
         "country":"US",
-        "salary":8000
+        "salary":80000
     }
 ]
